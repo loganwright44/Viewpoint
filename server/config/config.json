@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Friday$190717",
+    "database": "SimpleDB",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Friday$190717",
+    "database": "SimpleDB",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Friday$190717",
+    "database": "SimpleDB",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
